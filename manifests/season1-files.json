@@ -21,5 +21,10 @@
       "hash": "sha256:6BBDE6FD3C5DB173FD8A741923DE1A567C989AC027D7C900DB5EF7393CCBF0D3",
       "url": "https://raw.githubusercontent.com/DesTWor/Kingdom-Project-Seasons/main/season1/mods/voicechat-forge-1.20.1-2.6.12.jar"
     }
+      {
+      "path": "mods/Vampirism-1.20.1-1.10.13.jar",
+      "hash": "sha256:96372A1C753E6020B17A5F1AFCF7713C396D7052A9A67ECCABC21DF70CAE7CFF",
+      "url": "https://raw.githubusercontent.com/DesTWor/Kingdom-Project-Seasons/main/season1/mods/Vampirism-1.20.1-1.10.13.jar"
+    }
   ]
 }
