@@ -4,8 +4,8 @@
     "name": "Сезон 1: Начало",
     "forgeVersion": "1.20.1-47.1.0",
     "minecraftVersion": "1.20.1",
-    "filesManifestUrl": "https://raw.githubusercontent.com/ВАШ_ЛОГИН/minecraft-seasons/main/manifests/season1-files.json",
-    "icon": "https://raw.githubusercontent.com/ВАШ_ЛОГИН/minecraft-seasons/main/icons/season1.png",
+    "filesManifestUrl": "https://raw.githubusercontent.com/DesTWor/Kingdom-Project-Seasons/main/manifests/season1-files.json",
+    "icon": "https://raw.githubusercontent.com/DesTWor/Kingdom-Project-Seasons/main/icons/season1.png",
     "description": "Первый сезон с новыми приключениями..."
   }
 ]
