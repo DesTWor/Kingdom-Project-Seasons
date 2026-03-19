@@ -25,6 +25,11 @@
       "path": "mods/Vampirism-1.20.1-1.10.13.jar",
       "hash": "sha256:96372A1C753E6020B17A5F1AFCF7713C396D7052A9A67ECCABC21DF70CAE7CFF",
       "url": "https://raw.githubusercontent.com/DesTWor/Kingdom-Project-Seasons/main/season1/mods/Vampirism-1.20.1-1.10.13.jar"
+    },
+    {
+      "path": "mods/AntiMod-1.0.0.jar",
+      "hash": "sha256:2053694506F7DA98CF25130201D248AADB8F90936C8DED712FD0B4E507A649A0",
+      "url": "https://raw.githubusercontent.com/DesTWor/Kingdom-Project-Seasons/main/season1/mods/AntiMod-1.0.0.jar"
     }
   ]
 }
