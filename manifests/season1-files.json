@@ -4,32 +4,32 @@
     {
       "path": "mods/citadel-2.6.3-1.20.1.jar",
       "hash": "sha256:56C7AB87348A5292583AAC787B6CF11B5193E77F02AF1D17EA75A96F8640B3CE",
-      "url": "https://github.com/DesTWor/Kingdom-Project-Seasons/tree/main/season1/mods/citadel-2.6.3-1.20.1.jar"
+      "url": "https://github.com/DesTWor/Kingdom-Project-Seasons/main/season1/mods/citadel-2.6.3-1.20.1.jar"
     },
     {
       "path": "mods/geckolib-forge-1.20.1-4.8.3.jar",
       "hash": "sha256:8B90E11871A58B63816E99C529E6C932BC88E6BEB3FEC97AD618E22217DF3250",
-      "url": "https://github.com/DesTWor/Kingdom-Project-Seasons/tree/main/season1/mods/geckolib-forge-1.20.1-4.8.3.jar"
+      "url": "https://github.com/DesTWor/Kingdom-Project-Seasons/main/season1/mods/geckolib-forge-1.20.1-4.8.3.jar"
     },
     {
       "path": "mods/iceandfire-2.1.13-1.20.1-beta-5.jar",
       "hash": "sha256:2B80245FC9B7D6FDC61D71F9892F4C6114EB7F303F65634845AAAB25F84D1E82",
-      "url": "https://github.com/DesTWor/Kingdom-Project-Seasons/tree/main/season1/mods/iceandfire-2.1.13-1.20.1-beta-5.jar"
+      "url": "https://github.com/DesTWor/Kingdom-Project-Seasons/main/season1/mods/iceandfire-2.1.13-1.20.1-beta-5.jar"
     },
     {
       "path": "mods/preview_OptiFine_1.20.1_HD_U_I6_pre6.jar",
       "hash": "sha256:8B7C4F10F64620CB694D0D8B46912D2EAB186538EEBDA7F127901BD513D75163",
-      "url": "https://github.com/DesTWor/Kingdom-Project-Seasons/tree/main/season1/mods/preview_OptiFine_1.20.1_HD_U_I6_pre6.jar"
+      "url": "https://github.com/DesTWor/Kingdom-Project-Seasons/main/season1/mods/preview_OptiFine_1.20.1_HD_U_I6_pre6.jar"
     },
     {
       "path": "mods/Vampirism-1.20.1-1.10.13.jar",
       "hash": "sha256:96372A1C753E6020B17A5F1AFCF7713C396D7052A9A67ECCABC21DF70CAE7CFF",
-      "url": "https://github.com/DesTWor/Kingdom-Project-Seasons/tree/main/season1/mods/Vampirism-1.20.1-1.10.13.jar"
+      "url": "https://github.com/DesTWor/Kingdom-Project-Seasons/main/season1/mods/Vampirism-1.20.1-1.10.13.jar"
     },
     {
       "path": "mods/voicechat-forge-1.20.1-2.6.12.jar",
       "hash": "sha256:6BBDE6FD3C5DB173FD8A741923DE1A567C989AC027D7C900DB5EF7393CCBF0D3",
-      "url": "https://github.com/DesTWor/Kingdom-Project-Seasons/tree/main/season1/mods/voicechat-forge-1.20.1-2.6.12.jar"
+      "url": "https://github.com/DesTWor/Kingdom-Project-Seasons/main/season1/mods/voicechat-forge-1.20.1-2.6.12.jar"
     }
   ]
 }
