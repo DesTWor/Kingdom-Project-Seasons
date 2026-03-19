@@ -1,0 +1,20 @@
+{
+  "version": "1.0",
+  "files": [
+    {
+      "path": "mods/jei-1.20.1.jar",
+      "hash": "sha256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "url": "https://github.com/ВАШ_ЛОГИН/minecraft-seasons/releases/download/season1/mods/jei-1.20.1.jar"
+    },
+    {
+      "path": "shaderpacks/sildurs-vibrant.zip",
+      "hash": "sha256:5d41402abc4b2a76b9719d911017c592",
+      "url": "https://github.com/ВАШ_ЛОГИН/minecraft-seasons/releases/download/season1/shaderpacks/sildurs-vibrant.zip"
+    },
+    {
+      "path": "texturepacks/faithful.zip",
+      "hash": "sha256:7d865e959b2466918c9863afca942d0fb89d7c9ac0c99bafc3749504ded97730",
+      "url": "https://github.com/ВАШ_ЛОГИН/minecraft-seasons/releases/download/season1/texturepacks/faithful.zip"
+    }
+  ]
+}
