@@ -7,5 +7,14 @@
     "filesManifestUrl": "https://raw.githubusercontent.com/DesTWor/Kingdom-Project-Seasons/main/manifests/season1-files.json",
     "icon": "https://raw.githubusercontent.com/DesTWor/Kingdom-Project-Seasons/main/icons/season1.png",
     "description": "Первый сезон с новыми приключениями..."
+  },
+  {
+    "id": "shootergames",
+    "name": "Шутерные мини-игры",
+    "forgeVersion": "1.20.1-47.1.0",
+    "minecraftVersion": "1.20.1",
+    "filesManifestUrl": "https://raw.githubusercontent.com/DesTWor/Kingdom-Project-Seasons/main/manifests/???-files.json",
+    "icon": "https://raw.githubusercontent.com/DesTWor/Kingdom-Project-Seasons/main/icons/???.png",
+    "description": "Большая сборка шутерных мини-игр"
   }
 ]
